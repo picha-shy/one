@@ -9,11 +9,11 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center"> DEPLOYED APPLICATION</h1>
-	<h1 style="color: yellow; font-size: 40px;" align="center"> DEPLOYED APPLICATION using WebHook</h1>
-	
-<h1 style="color: orange; font-size: 40px;" align="center"> SUCCESSFULLY DEPLOYED APPLICATION Using WebHook</h1>
-
-<h1 style="color: purple; font-size: 40px;" align="center"> Pipelines we Add Webhooks its Automatically Build</h1>
+		
+		<h1 style="color: orange; font-size: 40px;" align="center"> Deployed Application and we integrate WebHooks and Integrate Artifact</h1>
+		<h1 style="color: purple; font-size: 40px;" align="center">Integrate Nexus(artifact) Finally Deployed Application</h1>
+		
+		
 
 
 
